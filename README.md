@@ -1,22 +1,32 @@
-### Hi there, I'm Yevgeniy Frolov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand">
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/evgeniyfrolov01)
+# Hi, I'm Yevgeniy Frolov 👋
 
-<h3 align="left">GitHub Stats</h3>
+### .NET Developer with 4 years of professional experience
 
-<p>
-  <a href="https://github.com/frolov7">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=frolov7&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent"
-      alt="Yevgeniy Frolov's GitHub statistics"
-    >
-  </a>
-  <a href="https://github.com/frolov7">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=frolov7&exclude_repo=KNN-Image-Classification&hide_border=true&layout=compact&langs_count=8&theme=transparent"
-      alt="Yevgeniy Frolov's most used languages"
-    >
-  </a>
-</p>
+I develop backend services, enterprise applications, and system integrations using the .NET ecosystem.
+
+🎓 Software Engineering graduate from
+**Bauman Moscow State Technical University**
+
+<br>
+
+### Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![WCF](https://img.shields.io/badge/WCF-512BD4?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-frolov7-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frolov7)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_me-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/evgeniyfrolov01)
+
+</div>
